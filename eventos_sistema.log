@@ -1,0 +1,7 @@
+[2026-04-30 21:04:44] [INFO] Cliente 'Diego Alejandro' registrado correctamente.
+[2026-04-30 21:10:07] [ERROR] Fallo en registro: El nombre es muy corto o está vacío.
+[2026-04-30 21:31:46] [ERROR] Nombre inválido: El nombre es muy corto o está vacío.
+[2026-04-30 21:32:31] [CRITICAL] El usuario ingresó letras en el campo de precio.
+[2026-04-30 21:33:34] [ERROR] Precio inválido: Precio negativo detectado: $-500.0
+[2026-04-30 21:34:00] [ERROR] Fecha inválida: Formato de fecha incorrecto: 
+[2026-04-30 21:34:54] [INFO] ÉXITO: Diego | Precio: $500.0 | Fecha: 03/05/2026
