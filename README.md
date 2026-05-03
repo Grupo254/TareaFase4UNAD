@@ -11,7 +11,6 @@ Universidad Nacional Abierta y a Distancia (UNAD)
 - Nombre Estudiante Mario Manuel Mora Moncana
 
 - Descripción del proyecto
-- 
 Este proyecto consiste en el desarrollo de un sistema orientado a objetos que permite gestionar clientes, servicios y reservas para la empresa Software FJ.
 El sistema está diseñado para ser estable, robusto y tolerante a errores, implementando manejo avanzado de excepciones y registro de eventos mediante logs.
 
