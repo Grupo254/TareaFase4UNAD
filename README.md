@@ -5,9 +5,9 @@ Curso: Programación (213023)
 Universidad Nacional Abierta y a Distancia (UNAD)
 
  Integrantes del grupo
-
+ 
 - Nombre Estudiante Diego Alejandro Zambrano Castillo 
-- Nombre Estudiante Brandon David Bravo Beltral 
+- Nombre Estudiante Brandon David Bravo Beltrán
 - Nombre Estudiante Mario Manuel Mora Moncana
 
 - Descripción del proyecto
