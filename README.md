@@ -8,7 +8,7 @@ Universidad Nacional Abierta y a Distancia (UNAD)
  
 - Nombre Estudiante Diego Alejandro Zambrano Castillo 
 - Nombre Estudiante Brandon David Bravo Beltrán
-- Nombre Estudiante Mario Manuel Mora Moncana
+- Nombre Estudiante Mario Manuel Mora Moncada
 
 - Descripción del proyecto
 Este proyecto consiste en el desarrollo de un sistema orientado a objetos que permite gestionar clientes, servicios y reservas para la empresa Software FJ.
